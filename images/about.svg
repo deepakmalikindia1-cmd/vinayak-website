@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 440" role="img" aria-label="Customs documents and container yard">
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b3d91"/><stop offset="1" stop-color="#082a63"/></linearGradient></defs>
+  <rect width="520" height="440" rx="24" fill="url(#bg)"/>
+  <g fill="#ffffff" opacity=".06"><circle cx="420" cy="80" r="120"/><circle cx="80" cy="400" r="90"/></g>
+  <!-- containers -->
+  <g>
+    <rect x="40" y="300" width="130" height="58" rx="3" fill="#1e9be0"/><rect x="176" y="300" width="130" height="58" rx="3" fill="#2c6fd1"/>
+    <rect x="100" y="238" width="130" height="58" rx="3" fill="#7cc2ef"/>
+    <g stroke="#ffffff" stroke-opacity=".3" stroke-width="3"><path d="M60 306v46M80 306v46M100 306v46M120 306v46M140 306v46M196 306v46M216 306v46M236 306v46M256 306v46M276 306v46M120 244v46M140 244v46M160 244v46M180 244v46M200 244v46"/></g>
+  </g>
+  <rect x="20" y="358" width="480" height="6" fill="#ffffff" opacity=".2"/>
+  <!-- document -->
+  <g transform="translate(300 70) rotate(6)">
+    <rect width="160" height="210" rx="10" fill="#ffffff"/>
+    <rect x="20" y="24" width="80" height="10" rx="3" fill="#0b3d91"/>
+    <g fill="#cfe0f3"><rect x="20" y="52" width="120" height="7" rx="3"/><rect x="20" y="68" width="100" height="7" rx="3"/><rect x="20" y="84" width="120" height="7" rx="3"/><rect x="20" y="100" width="70" height="7" rx="3"/><rect x="20" y="124" width="120" height="7" rx="3"/><rect x="20" y="140" width="90" height="7" rx="3"/></g>
+    <g transform="translate(108 168) rotate(-14)"><circle r="30" fill="none" stroke="#1e9be0" stroke-width="4"/><text x="0" y="4" text-anchor="middle" font-family="Arial, sans-serif" font-weight="700" font-size="10" fill="#1e9be0">CLEARED</text></g>
+  </g>
+  <!-- shield check -->
+  <g transform="translate(250 230)">
+    <path d="M40 0 L80 14 V44 C80 70 62 86 40 94 C18 86 0 70 0 44 V14 Z" fill="#ffffff"/>
+    <path d="M22 46 L36 60 L60 34" fill="none" stroke="#0b3d91" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <!-- plane trail -->
+  <path d="M40 140 C 120 120, 180 80, 250 50" fill="none" stroke="#7cc2ef" stroke-width="2" stroke-dasharray="5 7"/>
+  <g transform="translate(262 44) rotate(-24)" fill="#ffffff"><path d="M-26 0 Q-26 -5 -18 -5 L18 -5 Q28 -4 30 0 Q28 4 18 5 L-18 5 Q-26 5 -26 0z"/><path d="M-4 -4 L-14 -22 L-6 -22 L10 -4z"/><path d="M-4 4 L-14 20 L-6 20 L10 4z"/></g>
+</svg>

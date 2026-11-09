@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 220" role="img" aria-label="Truck on the highway">
+<defs><linearGradient id="g" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#e6f2fc"/><stop offset="1" stop-color="#f7fbff"/></linearGradient></defs>
+<rect width="400" height="220" fill="url(#g)"/><circle cx="330" cy="50" r="70" fill="#ffffff" opacity=".8"/><circle cx="60" cy="200" r="60" fill="#dcecfa"/>
+
+<path d="M0 150 Q100 110 200 140 T400 130 V220 H0z" fill="#dcecfa"/>
+<rect x="0" y="168" width="400" height="52" fill="#37475f"/><path d="M10 194 H50 M90 194 H130 M170 194 H210 M250 194 H290 M330 194 H370" stroke="#fff" stroke-width="4"/>
+<g transform="translate(90 92)"><rect width="150" height="70" rx="4" fill="#0b3d91"/><rect x="14" y="14" width="80" height="10" rx="3" fill="#fff" opacity=".9"/><rect x="14" y="30" width="50" height="6" rx="3" fill="#7cc2ef"/>
+<path d="M154 20 H196 L222 46 V74 H154z" fill="#1e9be0"/><path d="M164 28 H192 L208 46 H164z" fill="#cfe6fa"/>
+<rect x="0" y="70" width="222" height="8" fill="#082a63"/>
+<g fill="#082a63"><circle cx="34" cy="82" r="14"/><circle cx="72" cy="82" r="14"/><circle cx="188" cy="82" r="14"/></g><g fill="#fff"><circle cx="34" cy="82" r="5"/><circle cx="72" cy="82" r="5"/><circle cx="188" cy="82" r="5"/></g></g></svg>

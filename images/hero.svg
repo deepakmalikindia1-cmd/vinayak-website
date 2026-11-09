@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 480" role="img" aria-label="Cargo port with ship, cranes, plane and truck">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#e3f1fc"/><stop offset="1" stop-color="#ffffff"/></linearGradient>
+    <linearGradient id="sea" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#1e88d6"/><stop offset="1" stop-color="#0b3d91"/></linearGradient>
+    <clipPath id="c"><rect width="600" height="480" rx="28"/></clipPath>
+  </defs>
+  <g clip-path="url(#c)">
+    <rect width="600" height="480" fill="url(#sky)"/>
+    <circle cx="470" cy="92" r="46" fill="#ffffff"/><circle cx="470" cy="92" r="34" fill="#cfe6fa"/>
+    <g fill="#ffffff" opacity=".95"><ellipse cx="120" cy="80" rx="52" ry="16"/><ellipse cx="150" cy="70" rx="32" ry="18"/><ellipse cx="380" cy="150" rx="44" ry="12"/></g>
+    <!-- plane -->
+    <path d="M60 170 C 160 150, 250 120, 330 70" fill="none" stroke="#1e9be0" stroke-width="2" stroke-dasharray="5 7"/>
+    <g transform="translate(345 60) rotate(-22)">
+      <path d="M-40 0 Q-40 -7 -30 -7 L28 -7 Q42 -6 46 0 Q42 6 28 7 L-30 7 Q-40 7 -40 0z" fill="#0b3d91"/>
+      <path d="M-6 -6 L-22 -34 L-10 -34 L14 -6z" fill="#1e9be0"/><path d="M-6 6 L-22 30 L-12 30 L12 6z" fill="#1e9be0"/>
+      <path d="M-36 -6 L-44 -20 L-36 -20 L-26 -6z" fill="#1e9be0"/>
+      <g fill="#cfe6fa"><circle cx="18" cy="-1" r="2"/><circle cx="10" cy="-1" r="2"/><circle cx="2" cy="-1" r="2"/><circle cx="-6" cy="-1" r="2"/></g>
+    </g>
+    <!-- cranes -->
+    <g fill="none" stroke="#0b3d91" stroke-width="6" stroke-linejoin="round">
+      <path d="M430 330 V170 M470 330 V170 M430 210 H470 M430 250 H470"/>
+      <path d="M400 170 H560 M430 170 L460 140 L470 170"/>
+    </g>
+    <path d="M520 170 V215" stroke="#0b3d91" stroke-width="2"/><rect x="508" y="215" width="26" height="14" fill="#1e9be0"/>
+    <g fill="none" stroke="#2c5aa8" stroke-width="4"><path d="M95 330 V200 M125 330 V200 M95 235 H125 M60 200 H200 M95 200 L115 178 L125 200"/></g>
+    <!-- containers stacks -->
+    <g>
+      <rect x="160" y="290" width="70" height="30" fill="#0b3d91"/><rect x="232" y="290" width="70" height="30" fill="#1e9be0"/><rect x="304" y="290" width="70" height="30" fill="#2c5aa8"/>
+      <rect x="196" y="258" width="70" height="30" fill="#7cc2ef"/><rect x="268" y="258" width="70" height="30" fill="#0b3d91"/>
+      <rect x="232" y="226" width="70" height="30" fill="#1e9be0"/>
+      <g stroke="#ffffff" stroke-opacity=".35" stroke-width="2">
+        <path d="M172 293v24M184 293v24M196 293v24M208 293v24M220 293v24M244 293v24M256 293v24M268 293v24M280 293v24M292 293v24M316 293v24M328 293v24M340 293v24M352 293v24M364 293v24"/>
+        <path d="M208 261v24M220 261v24M232 261v24M244 261v24M256 261v24M280 261v24M292 261v24M304 261v24M316 261v24M328 261v24M244 229v24M256 229v24M268 229v24M280 229v24M292 229v24"/>
+      </g>
+    </g>
+    <!-- quay -->
+    <rect x="0" y="320" width="600" height="18" fill="#cfe0f3"/>
+    <!-- sea -->
+    <rect x="0" y="338" width="600" height="142" fill="url(#sea)"/>
+    <g stroke="#ffffff" stroke-opacity=".25" stroke-width="2" fill="none">
+      <path d="M20 450 q15 -6 30 0 t30 0 M420 455 q15 -6 30 0 t30 0 M260 465 q15 -6 30 0 t30 0"/>
+    </g>
+    <!-- ship -->
+    <g>
+      <rect x="250" y="352" width="44" height="22" fill="#7cc2ef"/><rect x="296" y="352" width="44" height="22" fill="#ffffff"/><rect x="342" y="352" width="44" height="22" fill="#1e9be0"/><rect x="388" y="352" width="44" height="22" fill="#ffffff"/>
+      <rect x="273" y="332" width="44" height="20" fill="#ffffff"/><rect x="319" y="332" width="44" height="20" fill="#7cc2ef"/><rect x="365" y="332" width="44" height="20" fill="#ffffff"/>
+      <rect x="196" y="334" width="40" height="40" fill="#ffffff"/><rect x="204" y="342" width="24" height="7" fill="#1e9be0"/><rect x="214" y="318" width="10" height="16" fill="#0b3d91"/>
+      <path d="M180 374 H470 L446 414 H200 Z" fill="#082a63"/>
+      <path d="M186 384 H462" stroke="#1e9be0" stroke-width="4"/>
+    </g>
+    <!-- truck on quay -->
+    <g transform="translate(470 282)">
+      <rect x="0" y="0" width="72" height="32" fill="#1e9be0"/><path d="M74 8 H94 L108 20 V32 H74z" fill="#0b3d91"/><rect x="82" y="12" width="12" height="8" fill="#cfe6fa"/>
+      <circle cx="18" cy="36" r="7" fill="#082a63"/><circle cx="90" cy="36" r="7" fill="#082a63"/>
+    </g>
+  </g>
+</svg>

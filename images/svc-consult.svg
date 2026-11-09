@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 220" role="img" aria-label="Logistics planning on a global map">
+<defs><linearGradient id="g" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#e6f2fc"/><stop offset="1" stop-color="#f7fbff"/></linearGradient></defs>
+<rect width="400" height="220" fill="url(#g)"/><circle cx="330" cy="50" r="70" fill="#ffffff" opacity=".8"/><circle cx="60" cy="200" r="60" fill="#dcecfa"/>
+
+<g transform="translate(130 110)"><circle r="78" fill="#0b3d91"/><g fill="none" stroke="#fff" stroke-opacity=".2" stroke-width="2"><ellipse rx="78" ry="28"/><ellipse rx="78" ry="56"/><ellipse rx="28" ry="78"/><ellipse rx="56" ry="78"/><path d="M-78 0 H78 M0 -78 V78"/></g>
+<g fill="none" stroke="#7cc2ef" stroke-width="3" stroke-dasharray="4 6" stroke-linecap="round"><path d="M10 10 C 30 -40, 60 -40, 66 -20"/><path d="M10 10 C -20 -30, -50 -30, -60 -10"/><path d="M10 10 C 20 40, 40 50, 50 46"/></g>
+<g fill="#fff"><circle cx="10" cy="10" r="7"/><circle cx="66" cy="-20" r="4"/><circle cx="-60" cy="-10" r="4"/><circle cx="50" cy="46" r="4"/></g></g>
+<g transform="translate(240 40)"><rect width="120" height="150" rx="10" fill="#fff" stroke="#cfe6fa" stroke-width="2"/><rect x="40" y="-8" width="40" height="16" rx="5" fill="#1e9be0"/>
+<g fill="#1e9be0"><rect x="20" y="96" width="16" height="34" rx="2"/><rect x="46" y="76" width="16" height="54" rx="2" fill="#0b3d91"/><rect x="72" y="60" width="16" height="70" rx="2"/></g>
+<path d="M20 70 L50 50 L76 40 L100 24" fill="none" stroke="#0b3d91" stroke-width="3" stroke-linecap="round"/><g fill="#cfe6fa"><rect x="20" y="22" width="50" height="6" rx="3"/></g></g></svg>

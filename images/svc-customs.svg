@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 220" role="img" aria-label="Customs clearance documents">
+<defs><linearGradient id="g" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#e6f2fc"/><stop offset="1" stop-color="#f7fbff"/></linearGradient></defs>
+<rect width="400" height="220" fill="url(#g)"/><circle cx="330" cy="50" r="70" fill="#ffffff" opacity=".8"/><circle cx="60" cy="200" r="60" fill="#dcecfa"/>
+
+<g transform="translate(70 40)"><rect width="190" height="80" rx="4" fill="#1e9be0"/><rect x="0" y="84" width="190" height="80" rx="4" fill="#0b3d91"/>
+<g stroke="#fff" stroke-opacity=".3" stroke-width="3"><path d="M20 6v68M40 6v68M60 6v68M80 6v68M100 6v68M120 6v68M140 6v68M160 6v68M20 90v68M40 90v68M60 90v68M80 90v68M100 90v68M120 90v68M140 90v68M160 90v68"/></g></g>
+<g transform="translate(200 30) rotate(5)"><rect width="120" height="160" rx="8" fill="#fff" stroke="#cfe6fa" stroke-width="2"/><rect x="16" y="18" width="60" height="8" rx="3" fill="#0b3d91"/>
+<g fill="#cfe6fa"><rect x="16" y="40" width="88" height="6" rx="3"/><rect x="16" y="54" width="70" height="6" rx="3"/><rect x="16" y="68" width="88" height="6" rx="3"/><rect x="16" y="82" width="50" height="6" rx="3"/></g>
+<g transform="translate(78 122) rotate(-14)"><circle r="24" fill="none" stroke="#1e9be0" stroke-width="4"/><path d="M-10 0 L-3 8 L11 -8" fill="none" stroke="#1e9be0" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/></g></g></svg>

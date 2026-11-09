@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 220" role="img" aria-label="Cargo plane in flight">
+<defs><linearGradient id="g" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#e6f2fc"/><stop offset="1" stop-color="#f7fbff"/></linearGradient></defs>
+<rect width="400" height="220" fill="url(#g)"/><circle cx="330" cy="50" r="70" fill="#ffffff" opacity=".8"/><circle cx="60" cy="200" r="60" fill="#dcecfa"/>
+
+<g fill="#fff"><ellipse cx="90" cy="160" rx="60" ry="18"/><ellipse cx="120" cy="148" rx="36" ry="20"/><ellipse cx="320" cy="175" rx="50" ry="14"/></g>
+<path d="M20 150 C 100 140, 160 120, 210 100" fill="none" stroke="#1e9be0" stroke-width="2" stroke-dasharray="5 7"/>
+<g transform="translate(260 90) rotate(-14)">
+<path d="M-80 0 Q-80 -14 -60 -14 L60 -14 Q86 -12 92 0 Q86 12 60 14 L-60 14 Q-80 14 -80 0z" fill="#0b3d91"/>
+<path d="M-12 -12 L-44 -66 L-22 -66 L28 -12z" fill="#1e9be0"/><path d="M-12 12 L-44 62 L-24 62 L24 12z" fill="#1e9be0"/>
+<path d="M-70 -12 L-86 -40 L-70 -40 L-52 -12z" fill="#1e9be0"/>
+<g fill="#cfe6fa"><circle cx="40" cy="-2" r="3"/><circle cx="26" cy="-2" r="3"/><circle cx="12" cy="-2" r="3"/><circle cx="-2" cy="-2" r="3"/><circle cx="-16" cy="-2" r="3"/></g>
+<path d="M70 -6 Q80 -6 84 0" stroke="#cfe6fa" stroke-width="3" fill="none"/></g>
+<g transform="translate(40 40)"><rect width="34" height="28" rx="2" fill="#7cc2ef"/><path d="M17 0v28" stroke="#fff" stroke-width="3"/><rect x="40" y="6" width="26" height="22" rx="2" fill="#1e9be0"/></g></svg>
